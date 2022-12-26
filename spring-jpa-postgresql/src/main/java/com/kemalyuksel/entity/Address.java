@@ -32,7 +32,7 @@ public class Address implements Serializable {
     @ManyToOne
     @JoinColumn(name = "user_address_id")
     private User user;
-    enum AddressType{
+    public enum AddressType{
         HOME,
         WORK,
         OTHER
