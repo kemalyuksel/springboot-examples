@@ -9,4 +9,4 @@ Java 17
 
 Docker
 
-Intellij
+Intellij Idea
